@@ -1,2 +1,2 @@
-Stock_Trading_Platform
+Stock_Trading_Platform\n
 Author : Akanksha Jaiswal
